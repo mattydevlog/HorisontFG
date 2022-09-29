@@ -14,9 +14,9 @@ public class Player : MonoBehaviour
         inventory = new Inventory();
         uiInventory.SetInventory(inventory);
 
-        ItemWorld.SpawnItemWorld(new Vector3(0, 3), new Item { itemType = Item.ItemType.Wood, amount = 1 });
-        ItemWorld.SpawnItemWorld(new Vector3(0, -3), new Item { itemType = Item.ItemType.Coal, amount = 1 });
-        ItemWorld.SpawnItemWorld(new Vector3(0, -1), new Item { itemType = Item.ItemType.String, amount = 1 });
+        ItemWorld.SpawnItemWorld(new Vector3(0, 3, 100), new Item { itemType = Item.ItemType.Wood, amount = 1 });
+        ItemWorld.SpawnItemWorld(new Vector3(0, -3, 100), new Item { itemType = Item.ItemType.Coal, amount = 1 });
+        ItemWorld.SpawnItemWorld(new Vector3(0, -1, 100), new Item { itemType = Item.ItemType.String, amount = 1 });
     }
 
 
