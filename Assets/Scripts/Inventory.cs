@@ -11,9 +11,9 @@ public class Inventory
     {
         itemList = new List<Item>();
 
-        //     AddItem(new Item { itemType = Item.ItemType.Wood, amount = 1 });
-        //   AddItem(new Item { itemType = Item.ItemType.String, amount = 1 });
-        //  AddItem(new Item { itemType = Item.ItemType.Coal, amount = 1 });
+        //   AddItem(new Item { itemType = Item.ItemType.Wood, amount = 1 });
+        // AddItem(new Item { itemType = Item.ItemType.String, amount = 1 });
+        // AddItem(new Item { itemType = Item.ItemType.Coal, amount = 1 });
         Debug.Log(itemList.Count);
     }
     public void AddItem(Item item)
