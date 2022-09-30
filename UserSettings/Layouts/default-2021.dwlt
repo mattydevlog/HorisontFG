@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 91
+  controlID: 97
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,9 +330,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc5b0000
-    m_LastClickedID: 23484
-    m_ExpandedIDs: 00000000e2590000
+    m_SelectedIDs: e0590000
+    m_LastClickedID: 23008
+    m_ExpandedIDs: 00000000de590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,7 +488,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: a6120000
       m_LastClickedID: 0
       m_ExpandedIDs: 36fbffff
       m_RenameOverlay:
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.918381, y: 13.555659, z: -15.332349}
+    m_Target: {x: -1.9287386, y: -1.2016673, z: 101.77064}
     speed: 2
-    m_Value: {x: 12.918381, y: 13.555659, z: -15.332349}
+    m_Value: {x: -1.9287386, y: -1.2016673, z: 101.77064}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.16197388, y: 0.3072457, z: -0.053155337, w: -0.93623775}
+    m_Target: {x: -0.23778771, y: 0.041360173, z: -0.010136019, w: -0.97038686}
     speed: 2
-    m_Value: {x: -0.1619737, y: 0.30724537, z: -0.05315528, w: -0.93623674}
+    m_Value: {x: -0.23778689, y: 0.04136003, z: -0.010135984, w: -0.9703835}
   m_Size:
-    m_Target: 2.1476135
+    m_Target: 11.923508
     speed: 2
-    m_Value: 2.1476135
+    m_Value: 11.923508
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -812,7 +812,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.15854545, y: -0.033467237, z: 0.0053769727, w: -0.9867703}
+  m_LastSceneViewRotation: {x: -0.09802017, y: 0.39094853, z: -0.041916918, w: -0.91422015}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
